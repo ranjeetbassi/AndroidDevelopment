@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">ProjectMgnt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ProjectName">Project Name</string>
+    <string name="ProjectDescription">Project Description</string>
+    <string name="Project_start">Project Start Date</string>
+    <string name="Project_end">Project End Date</string>
+    <string name="Create_Project">Create</string>
+    <string name="Cancel_Project">Cancel</string>
+    <string name="Error_Project_field">One or more fields are missing</string>
+    <string name="errorbutton">OK</string>
+    <string name="errorfield_description">Both the Project Name and Project Description must not be empty.</string>
+    <string name="CreateProjectClick">CreateProjectClick</string>
+    <string name="InsertData">InsertData</string>
+    <string name="Confirmationtitle">Confirmation</string>
+    <string name="confirmationbody">Inserted data to the database</string>
+
+</resources>
