@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WebListFragmentActivity!</string>
+    <string name="app_name">WebListFragment</string>
+
+    <string-array name="Webpage_titles">
+        <item>android</item>
+        <item>google</item>
+        <item>apple</item>
+        <item>yahoo</item>
+        <item>rim</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="Webpage_links">
+        <item>http://www.android.com/</item>
+        <item>http://www.google.com/</item>
+        <item>http://www.apple.com/</item>
+        <item>http://www.yahoo.com/</item>
+        <item>http://www.rim.com/</item>
+        <item>http://unknown/</item>
+    </string-array>
+
+</resources>
